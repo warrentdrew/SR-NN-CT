@@ -1,3 +1,5 @@
 /Train/*.tiff
 /Test/*.tiff
 /SR-data/*.tiff
+
+.idea
